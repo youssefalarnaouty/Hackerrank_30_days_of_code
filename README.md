@@ -1,4 +1,4 @@
-# Hackerrank - 30 Days of Code
-A repo with my solutions for the Hackerrank 30 Days Of Code problems in C++
+# Hackerrank Tutorials: 30 Days of Code
 
-->> https://www.hackerrank.com/domains/tutorials/30-days-of-code
+This repo contains the source codes needed to solve [Hackerrank's 30 Days of Code]( https://www.hackerrank.com/domains/tutorials/30-days-of-code) tutorial in C++.
+
